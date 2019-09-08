@@ -1,0 +1,10 @@
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\bin\Debug\Task02.ConsoleApp.exe.config
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\bin\Debug\Task02.ConsoleApp.exe
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\bin\Debug\Task02.ConsoleApp.pdb
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\bin\Debug\Task02.ClassLib.dll
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\bin\Debug\Task02.ClassLib.pdb
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\obj\Debug\Task02.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\obj\Debug\Task02.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\obj\Debug\Task02.ConsoleApp.csproj.CopyComplete
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\obj\Debug\Task02.ConsoleApp.exe
+C:\Users\Kot\source\repos\ProghrTechn_Lab1\Task02.ConsoleApp\obj\Debug\Task02.ConsoleApp.pdb
